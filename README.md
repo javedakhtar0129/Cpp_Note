@@ -1,1 +1,1 @@
-These are my notes of C++
+These are my notes for C++
